@@ -1,0 +1,7 @@
+/* const { username, password } = this.state; */    
+/*  handleInputChange = (event) => {
+    const { name, value } = event.target;
+    this.setState({ [name]: value });
+  }; */
+/* const { username, password, usernameError, passwordError, isConnected } = this.state; */
+

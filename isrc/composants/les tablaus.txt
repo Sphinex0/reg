@@ -1,0 +1,7 @@
+const listemedicaments=[{ID:1,Label:'douliprane 1000mg',prix:'20 dh',categorie:'adulte'},
+{ID:2,Label:'maltofer 100mg',prix:'39 dh',categorie:'adulte'},
+{ID:3,Label:'diclo  100mg',prix:'27 dh',categorie:'adulte'},
+{ID:4,Label:'Fitopolis',prix:'50 dh',categorie:'enfant'},
+{ID:5,Label:'Apixol',prix:'70 dh',categorie:'enfant'},
+{ID:6,Label:'Rhinolaya-kids',prix:'120 dh',categorie:'enfant'},
+]
